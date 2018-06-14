@@ -38,7 +38,7 @@ The kafka-front-end produces messages and on response from kafka-back-end forwar
 	</tr>
   	<tr>
 		<td>Back-End</td>
-		<td>Node.js, Expres.js</td>
+		<td>Node.js, Express.js</td>
 	</tr>
 	<tr>
 		<td>Authentication Middleware</td>

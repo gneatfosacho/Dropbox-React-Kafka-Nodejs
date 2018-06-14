@@ -1,9 +1,9 @@
 # Dropbox-React-Kafka-Nodejs
-A Dropbox like application using React.js | Node.js | Expres.js | MongoDb ( MERN Stack) + Apache Kafka
+A Dropbox like application using React.js | Node.js | Express.js | MongoDb ( MERN Stack) + Apache Kafka
 
 ## Goal
 * The goal is to build a distributed enterprise web application which enables the users to upload and delete files/folders and share files/folders to other users, create groups, add/delete members.
-* The project was developed as Full Stack Web app using technologies such as React.js | Node.js | Expres.js | MongoDb ( MERN Stack) and Apache Kafka for stream-processing.
+* The project was developed as Full Stack Web app using technologies such as React.js | Node.js | Express.js | MongoDb ( MERN Stack) and Apache Kafka for stream-processing.
 
 ## System Design
 

@@ -104,3 +104,26 @@ The kafka-front-end produces messages and on response from kafka-back-end forwar
 
 ![](images/17.PNG)
 ![](images/18.PNG)
+
+## Steps for Project Execution :
+
+Install Apache Kafka
+
+Run Apache Kafka Server
+
+Client & Server:
+```
+cd dropbox
+
+cd kafka-back-end
+npm install
+npm start
+
+cd kafka-front-end
+npm install
+npm start
+
+cd reactlogin
+npm install
+npm start
+```		
